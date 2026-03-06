@@ -136,6 +136,7 @@ dmypy.json
 .ruff_cache/
 
 # PyCharm
+.idea
 .idea/
 
 # Раскомментируйте, если хотите игнорировать poetry.lock (не рекомендуется)

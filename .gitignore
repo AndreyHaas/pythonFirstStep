@@ -137,3 +137,23 @@ dmypy.json
 
 # PyCharm
 .idea/
+
+# Раскомментируйте, если хотите игнорировать poetry.lock (не рекомендуется)
+# poetry.lock
+
+# Black formatter
+.black
+
+# VS Code
+.vscode/
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+# (Если вы не храните Dockerfile в репозитории)
+
+# PyCharm (все версии)
+*.iws
+*.iml
+*.ipr
